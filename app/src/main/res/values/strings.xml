@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoomDataBase</string>
+    <string name="title">title</string>
+    <string name="time">time</string>
+</resources>

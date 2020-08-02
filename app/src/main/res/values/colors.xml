@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#96347E</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="dark_blue">#3023AE</color>
+    <color name="purple">#96347E</color>
+    <color name="purple_dark">#774798</color>
+    <color name="line">#e6e6e6</color>
+
+    <color name="form_details">#ccffffff</color>
+    <color name="form_details_light">#1AFFFFFF</color>
+    <color name="form_details_medium">#66ffffff</color>
+</resources>
